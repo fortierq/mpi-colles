@@ -1,0 +1,7 @@
+*.pygtex
+*.tex
+_minted*
+*.txt
+*.md
+*.pyg
+cours*
